@@ -13,6 +13,7 @@
 - [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog)
 - [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
 - [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
+- [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration)
 - [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
 
 ## Digital
