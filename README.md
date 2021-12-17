@@ -8,9 +8,12 @@
 - [1.0V BGR](https://github.com/mabrains/Analog_blocks/tree/main/Analog_Blocks/Bandgap): 1V Bandgap Voltage Reference.
 - [0.7V BGR](https://github.com/hishamelreedy/BandGapReference_sky130): 0.7V Bandgap Voltage Reference.
 - [1.8V LDO](https://github.com/mabrains/caravel_user_project_ldo): 100mA 1.8V Low Dropout Voltage Regulator.
+- [LDO, Power Swicth and BGR](https://gitlab.com/skywater130/columbus/-/tree/master/ip)
 - [VCO ADC](https://github.com/duyhieubui/caravel_vco_adc): Voltage COntrolled Oscillator Based Analog to Digital Converter
 - [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog)
-
+- [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
+- [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
+- [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
 
 ## Digital
 - [HyperRAM Controller](https://github.com/embelon/wrapped_wb_hyperram)
