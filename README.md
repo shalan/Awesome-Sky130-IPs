@@ -11,7 +11,7 @@
 - [1.8V Buck Converter](https://github.com/westonb/open-pmic): A current mode buck converter on the SKY130 PDK.
 - [LDO, Power Swicth and BGR](https://gitlab.com/skywater130/columbus/-/tree/master/ip)
 - [VCO ADC](https://github.com/duyhieubui/caravel_vco_adc): Voltage COntrolled Oscillator Based Analog to Digital Converter
-- [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog)
+- [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog): Collection of analog and mixed signal test circuits.
 - [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
 - [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
 - [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration)
