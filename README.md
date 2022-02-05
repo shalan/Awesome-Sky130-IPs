@@ -8,6 +8,7 @@
 - [1.0V BGR](https://github.com/mabrains/Analog_blocks/tree/main/Analog_Blocks/Bandgap): 1V Bandgap Voltage Reference.
 - [0.7V BGR](https://github.com/hishamelreedy/BandGapReference_sky130): 0.7V Bandgap Voltage Reference.
 - [1.8V LDO](https://github.com/mabrains/caravel_user_project_ldo): 100mA 1.8V Low Dropout Voltage Regulator.
+- [1.8V Buck Converter] (https://github.com/westonb/open-pmic): A current mode buck converter on the SKY130 PDK.
 - [LDO, Power Swicth and BGR](https://gitlab.com/skywater130/columbus/-/tree/master/ip)
 - [VCO ADC](https://github.com/duyhieubui/caravel_vco_adc): Voltage COntrolled Oscillator Based Analog to Digital Converter
 - [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog)
