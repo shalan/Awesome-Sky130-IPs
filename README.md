@@ -4,6 +4,7 @@
 - [Potentiometric Digital to Analog Converter (DAC)](https://github.com/vsdip/avsddac_3v3_sky130_v1): A 10-bit potentiometric DAC with 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference.
 - [Potentiometric Digital to Analog Converter (DAC)](https://github.com/xzlashutosh/avsddac_3v3): Another 10-bit potentiometric DAC.
 - [Analog Comparator](https://github.com/vsdip/avsdcmp_3v3_sky130): A 3.3V analog comparator.
+- [Analog Comparator](https://github.com/maherbenhouria/caravel_user_project_analog): CMOS Rail-To-Rail Comparator
 - [8-bit SAR ADC](https://github.com/chrische-xx/caravel_user_project_analog): 8-bit Successive Approximation Analog to Digital Converter with offset calibration.
 - [1.0V BGR](https://github.com/mabrains/Analog_blocks/tree/main/Analog_Blocks/Bandgap): 1V Bandgap Voltage Reference.
 - [0.7V BGR](https://github.com/hishamelreedy/BandGapReference_sky130): 0.7V Bandgap Voltage Reference.
@@ -14,8 +15,8 @@
 - [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog): Collection of analog and mixed signal test circuits.
 - [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
 - [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
-- [2-stage OpAmp]((https://github.com/rohinthram/opamp_tapeout_mpw4): A Two Stage CMOS Operational Amplifier 
-- [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration)
+- [2-stage OpAmp](https://github.com/rohinthram/opamp_tapeout_mpw4): A Two Stage CMOS Operational Amplifier 
+- [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration): 
 - [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
 
 ## Digital
