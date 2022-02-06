@@ -14,6 +14,7 @@
 - [Analog MUX, Switch and Comparator](https://github.com/H-S-S-11/caravel_user_project_analog): Collection of analog and mixed signal test circuits.
 - [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
 - [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
+- [2-stage OpAmp]((https://github.com/rohinthram/opamp_tapeout_mpw4): A Two Stage CMOS Operational Amplifier 
 - [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration)
 - [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
 
