@@ -5,7 +5,7 @@
 - [Potentiometric Digital to Analog Converter (DAC)](https://github.com/xzlashutosh/avsddac_3v3): Another 10-bit potentiometric DAC.
 - [Analog Comparator](https://github.com/vsdip/avsdcmp_3v3_sky130): A 3.3V analog comparator.
 - [Analog Comparator](https://github.com/maherbenhouria/caravel_user_project_analog): CMOS Rail-To-Rail Comparator
-- [8-bit SAR ADC](https://github.com/chrische-xx/mpw4): This submission consists of a updated 8-bit SAR-ADC, basic analog support circuitry, such as bandgap reference, bias network, voltage regulators and a clk generator.
+- [8-bit SAR ADC](https://github.com/chrische-xx/mpw4): This submission consists of a updated 8-bit SAR-ADC, basic analog support circuitry, such as bandgap reference, bias network, voltage regulators and a clk generator. [Earlier Version](https://github.com/chrische-xx/caravel_user_project_analog).
 - [1.0V BGR](https://github.com/mabrains/Analog_blocks/tree/main/Analog_Blocks/Bandgap): 1V Bandgap Voltage Reference.
 - [0.7V BGR](https://github.com/hishamelreedy/BandGapReference_sky130): 0.7V Bandgap Voltage Reference.
 - [1.8V LDO](https://github.com/mabrains/caravel_user_project_ldo): 100mA 1.8V Low Dropout Voltage Regulator.
