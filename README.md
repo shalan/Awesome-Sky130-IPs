@@ -31,3 +31,4 @@
 
 ## Digital
 - [HyperRAM Controller](https://github.com/embelon/wrapped_wb_hyperram): Wishbone HyperRAM controller.
+- [no2USB](https://github.com/PyFive-RISC-V/pyfive_no2usb): a USB Full-Speed SIU using only CMOS IOs.
