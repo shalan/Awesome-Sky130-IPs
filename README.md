@@ -13,7 +13,7 @@
 - [Sigma-Delta AUdio DAC](https://github.com/hpretl/iic-audiodac-v1): Delta-sigma audio DAC (16b, 48kHz).
 - [8-bit SAR ADC](https://github.com/chrische-xx/mpw4): This submission consists of a updated 8-bit SAR-ADC, basic analog support circuitry, such as bandgap reference, bias network, voltage regulators and a clk generator. [Earlier Version](https://github.com/chrische-xx/caravel_user_project_analog).
 - [VCO ADC](https://github.com/duyhieubui/caravel_vco_adc): Voltage COntrolled Oscillator Based Analog to Digital Converter
-## BGR
+### BGR
 - [1.8V BGR](https://github.com/mabrains/Analog_blocks/tree/main/Analog_Blocks/Bandgap): 1V Bandgap Voltage Reference.
 - [0.7V BGR](https://github.com/hishamelreedy/BandGapReference_sky130): 0.7V Bandgap Voltage Reference.
 ### Power Converters
