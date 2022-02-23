@@ -19,6 +19,7 @@
 - [2-stage OpAmp](https://github.com/rohinthram/opamp_tapeout_mpw4): A Two Stage CMOS Operational Amplifier 
 - [OpAmp](https://github.com/H-S-S-11/caravel_user_project_analog/tree/main/mag/zeroToASIC_integration): 
 - [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
+- [SerDes](https://github.com/SparcLab/OpenSERDES): Digitally synthesizable architecture for SerDes
 
 ## Digital
 - [HyperRAM Controller](https://github.com/embelon/wrapped_wb_hyperram)
