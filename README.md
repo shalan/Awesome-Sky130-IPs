@@ -19,7 +19,7 @@
 ### Power Converters
 - [1.8V LDO](https://github.com/mabrains/caravel_user_project_ldo): 100mA 1.8V Low Dropout Voltage Regulator.
 - [1.8V Buck Converter](https://github.com/westonb/open-pmic): A current mode buck converter on the SKY130 PDK.
-- [LDO, Power Swicth and BGR](https://gitlab.com/skywater130/columbus/-/tree/master/ip)
+- [LDO, Power Swicth and 1.2V BGR](https://gitlab.com/skywater130/columbus/-/tree/master/ip): These IPs can be integrated to construct a 1.2V LDO.
 ### Operational Amplifiers
 - [OpAmp](https://github.com/MadhuriKadam9/caravel_avsdopamp_3v3_sky130_v2): 2-stage, frequency-compensated OpAmp
 - [OpAmp](https://github.com/diegohernando/caravel_fulgor_opamp): General-Purpose OpAmp.
