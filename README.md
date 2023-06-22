@@ -31,5 +31,5 @@
 ## Digital
 - [HyperRAM Controller](https://github.com/embelon/wrapped_wb_hyperram): Wishbone HyperRAM controller.
 - [no2USB](https://github.com/PyFive-RISC-V/pyfive_no2usb): a USB Full-Speed SIU using only CMOS IOs.
-## Digital Interface
+## Digital Interfaces
 - [USB 2.0 CDC Core](https://github.com/ulixxe/usb_cdc): Verilog implementation of the Full Speed (12Mbit/s) USB communications device class (or USB CDC class). It implements the Abstract Control Model (ACM) subclass.
