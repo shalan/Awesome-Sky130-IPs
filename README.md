@@ -28,6 +28,8 @@
 - [DPGA](https://github.com/daniel-santos-7/dpga-ieee-sscs-contest): Digitally Programmable Gain Amplifier. 
 ### SerDes
 - [SerDes](https://github.com/SparcLab/OpenSERDES): Digitally synthesizable architecture for SerDes
+### Sensors
+- [Temperature Sensor](https://github.com/wulffern/lelo_temp_sky130a)
 ## Digital
 - [HyperRAM Controller](https://github.com/embelon/wrapped_wb_hyperram): Wishbone HyperRAM controller.
 - [no2USB](https://github.com/PyFive-RISC-V/pyfive_no2usb): a USB Full-Speed SIU using only CMOS IOs.
